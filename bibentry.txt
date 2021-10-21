@@ -1,0 +1,9 @@
+% bibentry template for lsst.bib in https://github.com/lsst/lsst-texmf/blob/master/texmf/bibtex/bib/lsst.bib
+
+@DocuShare{ITTN-036,
+   author = { Heinrich Reinking },
+    title = {Virtualization Cluster Topology and Design},
+     year = 2021,
+    month = Oct,
+   handle = {ITTN-036},
+      url = {https://ittn-036.lsst.io } }
