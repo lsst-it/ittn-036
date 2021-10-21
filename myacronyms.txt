@@ -1,7 +1,6 @@
-# List acronyms in this file that are not found in lsst-texmf, or that have multiple definitions (put the one you want here).
-#
-# Line format:
-#   ACRONYM:Definition
-#
-# Example:
-#   MIA:Missing In Action
+BDC:Base Data Center
+vSAN:Virtual Storage Area Network
+VM:Virtual Machine
+LDAP:Lightweight Directory Access Protocol
+VNC:Virtual Network Computing
+KVM:Kernel-based Virtual Machine
